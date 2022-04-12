@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1644787230 source:c:\users\pichau\downloads\calculas\calculos.c
+	"../calculos_normal.h"
+	<math.h>
+
+1644787230 c:\users\pichau\downloads\calculos_normal.h
+
+1644788429 source:c:\users\pichau\downloads\calculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1644788414 source:c:\users\pichau\desktop\untitled1.c
+	<stdio.h>
+	<string.h>
+
